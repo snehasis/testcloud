@@ -2,4 +2,4 @@ test:
   message: Snehasis New
   
 server:
-  port: 3344
+  port: 5050
